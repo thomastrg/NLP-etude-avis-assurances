@@ -1,4 +1,4 @@
-# NLP insurance project
+# NLP : étude d'un dataset d'avis d'assurances
 
 Le dataset sur lequel nous sommes amenés à travailler dans ce projet contient 24 105 lignes et 6 colonnes. Chaque ligne représente un avis d'un assuré rédigé suite à un sinistre impliquant l'intervention d'une assurance. Parmi les colonnes retrouvées nous avons :
     - date : c'est la date de publication de l'avis et la période de la rédaction de l'avis  
